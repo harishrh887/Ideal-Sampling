@@ -2,6 +2,20 @@
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
+```
+-Google colab
+-Python IDE
+-Numpy library
+-computer/Laptop
+-Internet connection
+````
+# Theroy
+
+```
+
+
+
+
 
 # Program
 ```
@@ -65,6 +79,5 @@ plt.show()
 
 # Results
 ```
-Attach the output waveform
+Thus, the python programs for ideal sampling, natural sampling and flat-top sampling has been executed and verified successfully.
 ```
-# Hardware experiment output waveform.
