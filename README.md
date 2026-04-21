@@ -4,9 +4,13 @@ Write a simple Python program for the construction and reconstruction of ideal, 
 # Tools required
 
 -Google colab
+
 -Python IDE
+
 -Numpy library
+
 -computer/Laptop
+
 -Internet connection
 
 
